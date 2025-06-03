@@ -22,3 +22,24 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vscode-test
+# Build output
+build
+# Dependency directories
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Optional npm cache directory
+.npm
+# Optional eslint cache
+.eslintcache
+# Optional stylelint cache
+.stylelintcache
+# Optional cache directories
+.cache
+# Optional REPL history
+.repl
+# 
+
